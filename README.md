@@ -18,7 +18,7 @@ I am currently leading publication of the **Synthience Institute** initial corpu
 
 ---
 
-### Connect & Verify
+### Links
 
 - 🌐 **Website:** [synthience.org](https://synthience.org)
 - 🆔 **ORCID:** [0009-0003-7168-493X](https://orcid.org/0009-0003-7168-493X)
